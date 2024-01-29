@@ -1,0 +1,12 @@
+.sticky-footer {
+    position: sticky;
+    top: 100vh;
+    background-color: rgb(59, 59, 99);
+    color: #fff;
+    text-align: center;
+    height: 30px;
+    line-height: 1.5;
+  }
+  
+  /* Add more styles as needed */
+  

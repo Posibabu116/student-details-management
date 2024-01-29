@@ -1,0 +1,25 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "dob": "2000-01-01",
+      "gender": "male",
+      "address": "123 Main St, City",
+      "photo": "",
+      "bloodGroup": "A+",
+      "className": "10",
+      "grade": "A"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "dob": "1998-05-15",
+      "gender": "female",
+      "address": "456 Oak St, Town",
+      "photo": "",
+      "bloodGroup": "B-",
+      "className": "12",
+      "grade": "B"
+    }
+  ]
+  
